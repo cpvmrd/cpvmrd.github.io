@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[cpvmrd的技术博客]]></title>
+  <link href="http://cpvmrd.github.io/atom.xml" rel="self"/>
+  <link href="http://cpvmrd.github.io/"/>
+  <updated>2014-08-10T01:46:58+08:00</updated>
+  <id>http://cpvmrd.github.io/</id>
+  <author>
+    <name><![CDATA[cpvmrd]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[开博]]></title>
+    <link href="http://cpvmrd.github.io/blog/2014/08/10/kai-bo/"/>
+    <updated>2014-08-10T01:39:08+08:00</updated>
+    <id>http://cpvmrd.github.io/blog/2014/08/10/kai-bo</id>
+    <content type="html"><![CDATA[<p>折腾了半天，终于在Github上把博客搭建起来，并绑定了自己的域名。</p>
+
+<p>以后会在这里记录自己学习和思考的一些东西。</p>
+]]></content>
+  </entry>
+  
+</feed>
